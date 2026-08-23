@@ -1,0 +1,6 @@
+{
+  "name": "Meskot",
+  "description": "Ethiopian social and community platform for sharing posts, photos, groups, direct messaging, and culture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
